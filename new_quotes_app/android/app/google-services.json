@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652678497330",
+    "project_id": "quotes-app-c4548",
+    "storage_bucket": "quotes-app-c4548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652678497330:android:019091a67a9e8e6c6ee82b",
+        "android_client_info": {
+          "package_name": "com.meir.quotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ecyix6xC33FL86KayctlLDJg7z8ObYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
